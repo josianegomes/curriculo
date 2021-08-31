@@ -1,0 +1,26 @@
+h3{
+display: block;
+font-family: 'Dancing Script', cursive;
+font-size: 20px;
+text-align: center;
+margin-top: 50px;
+color: #F2D5D5;
+}
+
+h3:after{
+    display: block;
+    content: " ";
+    width: 60px;
+    border-bottom: 2px solid	#808080;
+    margin: 10px auto 10px auto;
+
+}
+
+.container_formacao{
+    margin-left: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container_menu_info{
+    position: fixed;
+}
