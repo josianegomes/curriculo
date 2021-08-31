@@ -20,7 +20,7 @@ h1{
     font-size: 60px;
     text-align: center;
     margin-top: 200px;
-    color: #879973;
+    color: #000;
 
 }
 
@@ -58,7 +58,7 @@ h1:after{
 }
 
 .redes ul li a{
-    color: 	#495946;
+    color: 	#F29999;
     text-align: center;
     display: block;
     padding: 10px;
@@ -88,7 +88,7 @@ h1:after{
 
 .btn_menu ul li{ 		
     text-align: center;
-    border-bottom: 1px solid	#879973;
+    border-bottom: 1px solid	#000;
     display: block;
     padding: 30px;
     width: 150px;
@@ -100,7 +100,7 @@ h1:after{
 
 .btn_menu ul li a{
     font-size: 15px;
-    color: 	#879973;
+    color: 	#000;
     font-size: 25px;
 }
 
@@ -113,7 +113,7 @@ li{
 }
 
 p{
-    font-family: 'Indie Flower', cursive;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight:lighter;
-    color: #879973;
+    
 }
