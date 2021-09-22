@@ -5,3 +5,11 @@
   font-family: Georgia, "Times New Roman", Times, serif;
   align-self: center;
 }
+
+.container_contato_info a {
+  color: #000;
+}
+
+.container_contato_info a:hover {
+  color: #f29999;
+}

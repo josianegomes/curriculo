@@ -1,18 +1,35 @@
-h3{
-display: block;
-font-family: Georgia, 'Times New Roman', Times, serif;
-font-size: 20px;
-text-align: center;
-margin-top: 50px;
-color:#000;
-
+h3 {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+  color: #000;
 }
 
-.container_formacao{
-    margin-left: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.web_design {
+  margin-left: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-.container_menu_info{
-    position: fixed;
+.container_menu_info {
+  position: fixed;
+}
+
+.link {
+  color: #000;
+}
+
+.link:hover {
+  color: #f29999;
+}
+
+.container_cursos {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.container_cursos section {
+  padding: 0 100px 0 100px;
+  flex: 1;
 }
