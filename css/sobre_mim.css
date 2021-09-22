@@ -1,13 +1,7 @@
-.container_conteudo{
-    flex: 3;
-    display: flex;
-    flex-direction: column;
-    align-items: center ;
-}
-
-.container_sobre{
-    border: 1px solid #939598;
-    padding: 50px;
-    max-width: 500px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.container_sobre {
+  border: 1px solid #939598;
+  padding: 50px;
+  max-width: 500px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  align-self: center;
 }
