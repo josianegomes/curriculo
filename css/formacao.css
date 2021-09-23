@@ -1,15 +1,11 @@
 h3 {
   display: block;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-  text-align: center;
   margin-top: 50px;
-  color: #000;
+  color: #939598;
 }
 
 .web_design {
   margin-left: 20px;
-  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .container_menu_info {
@@ -17,7 +13,7 @@ h3 {
 }
 
 .link {
-  color: #000;
+  color: #778899;
 }
 
 .link:hover {
@@ -31,5 +27,27 @@ h3 {
 
 .container_cursos section {
   padding: 0 100px 0 100px;
+  width: 200px;
   flex: 1;
+}
+
+.web_design:after {
+  display: block;
+  content: " ";
+  width: 250px;
+  border-bottom: 2px solid #939598;
+  margin: 10px auto 10px auto;
+}
+
+.web_design {
+  color: #4f4f4f;
+}
+
+li {
+  font-size: 14px;
+  color: #4f4f4f;
+}
+
+b {
+  color: #fa7f72;
 }
